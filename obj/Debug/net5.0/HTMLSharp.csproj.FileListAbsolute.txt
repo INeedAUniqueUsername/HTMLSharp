@@ -1,0 +1,5 @@
+C:\Users\alexm\source\repos\HTMLSharp\obj\Debug\net5.0\HTMLSharp.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\HTMLSharp\obj\Debug\net5.0\HTMLSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\HTMLSharp\obj\Debug\net5.0\HTMLSharp.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\HTMLSharp\obj\Debug\net5.0\HTMLSharp.AssemblyInfo.cs
+C:\Users\alexm\source\repos\HTMLSharp\obj\Debug\net5.0\HTMLSharp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\alexm\source\repos\HTMLSharp\obj\Debug\net6.0\HTMLSharp.csproj.AssemblyReference.cache
+C:\Users\alexm\source\repos\HTMLSharp\obj\Debug\net6.0\HTMLSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexm\source\repos\HTMLSharp\obj\Debug\net6.0\HTMLSharp.AssemblyInfoInputs.cache
+C:\Users\alexm\source\repos\HTMLSharp\obj\Debug\net6.0\HTMLSharp.AssemblyInfo.cs
+C:\Users\alexm\source\repos\HTMLSharp\obj\Debug\net6.0\HTMLSharp.csproj.CoreCompileInputs.cache
+C:\Users\alexm\source\repos\HTMLSharp\bin\Debug\net6.0\HTMLSharp.exe
+C:\Users\alexm\source\repos\HTMLSharp\bin\Debug\net6.0\HTMLSharp.deps.json
+C:\Users\alexm\source\repos\HTMLSharp\bin\Debug\net6.0\HTMLSharp.runtimeconfig.json
+C:\Users\alexm\source\repos\HTMLSharp\bin\Debug\net6.0\HTMLSharp.dll
+C:\Users\alexm\source\repos\HTMLSharp\bin\Debug\net6.0\ref\HTMLSharp.dll
+C:\Users\alexm\source\repos\HTMLSharp\bin\Debug\net6.0\HTMLSharp.pdb
+C:\Users\alexm\source\repos\HTMLSharp\obj\Debug\net6.0\HTMLSharp.dll
+C:\Users\alexm\source\repos\HTMLSharp\obj\Debug\net6.0\ref\HTMLSharp.dll
+C:\Users\alexm\source\repos\HTMLSharp\obj\Debug\net6.0\HTMLSharp.pdb
+C:\Users\alexm\source\repos\HTMLSharp\obj\Debug\net6.0\HTMLSharp.genruntimeconfig.cache
